@@ -1,0 +1,7 @@
+anthropic
+beautifulsoup4
+instructor
+openai
+pydantic
+requests
+serpapi
